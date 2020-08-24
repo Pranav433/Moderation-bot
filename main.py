@@ -22,5 +22,5 @@ if __name__ == '__main__':
     for module in modules:
         bot.load_extension(module)
 
-
-bot.run('NzI5OTMxNTE1MDg5Mzg3NjIx.XwQH2g.wB3KADFsbP2JGN3f2eW1ht4ltq8')
+#replace with your bot's token
+bot.run('YOUR BOT's token here')
